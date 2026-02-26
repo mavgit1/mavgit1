@@ -1,9 +1,27 @@
-- 👋 Hello there! I'm @mavgit11
+# hello.
 
-Welcome to my little corner of the internet! I'm a student deeply fascinated by the ever-evolving world of Artificial Intelligence and Machine Learning. 
+I am a Systems Engineer. Currently studying AI/ML.
 
-- 👀 What Sparks My Interest
-    * AI & ML: From nural networks to deep learning. I am eager to explore and learn more.
-    * Videoography: When I'm not tangled in codes and datasets, I am out capturing moments through the lens of a camera.
+```python
+def get_current_status():
+    motto = "learning about cool things. creating while at it."
+    
+    # a mix of tools I use daily and technologies I am actively learning
+    stack = [
+        "python", 
+        "typescript", 
+        "rust",
+        "vuejs", 
+        "nuxt", 
+        "supabase",
+        "proxmox",
+        "talos", 
+        "cilium", 
+        "longhorn", 
+        "zitadel"
+    ]
+    
+    return motto, stack
 
-Well thats it. A little empty here.
+if __name__ == "__main__":
+    get_current_status()
