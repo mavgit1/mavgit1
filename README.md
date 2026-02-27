@@ -6,7 +6,7 @@ I am a Systems Engineer. Currently studying AI/ML.
 def get_current_status():
     motto = "learning about cool things. creating while at it."
     
-    # a mix of tools I use daily and technologies I am actively learning
+    # tools I use and technologies I am learning
     stack = [
         "python", 
         "typescript", 
