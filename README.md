@@ -13,7 +13,6 @@ def get_current_status():
         "rust",
         "vuejs", 
         "nuxt", 
-        "supabase",
         "proxmox",
         "talos", 
         "cilium", 
